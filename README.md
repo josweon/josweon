@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-josiahdeleon.x%40outlook.com-D9A441?style=flat-square&logo=gmail&logoColor=white)](mailto:josiahdeleon.x@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiah-de-leon-00x/) 
-[![Resume](https://img.shields.io/badge/Resume-Download-4FA6A0?style=flat-square&logo=readdotcv&logoColor=white)](assets/jdl-swe-2026.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-4FA6A0?style=flat-square&logo=readdotcv&logoColor=white)](assets/jdel-swe-2026.pdf)
 
 </div>
 
