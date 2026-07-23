@@ -56,9 +56,6 @@ Currently, I'm focusing on building machine learning models and diving deeper in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jkalpha&show_icons=true&hide_title=true&hide_border=true&bg_color=0B0E14&title_color=D9A441&icon_color=4FA6A0&text_color=E4E7EC" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkalpha&layout=compact&hide_border=true&bg_color=0B0E14&title_color=D9A441&text_color=E4E7EC" />
-
 <img src="https://streak-stats.demolab.com?user=jkalpha&hide_border=true&background=0B0E14&ring=D9A441&fire=D9A441&currStreakLabel=E4E7EC&sideNums=E4E7EC&sideLabels=E4E7EC&dates=8B93A3" />
 
 </div>
