@@ -56,7 +56,7 @@ Currently, I'm focusing on building machine learning models and diving deeper in
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jkalpha&hide_border=true&background=0B0E14&ring=D9A441&fire=D9A441&currStreakLabel=E4E7EC&sideNums=E4E7EC&sideLabels=E4E7EC&dates=8B93A3" />
+<img src="https://streak-stats.demolab.com?user=josweon&hide_border=true&background=0B0E14&ring=D9A441&fire=D9A441&currStreakLabel=E4E7EC&sideNums=E4E7EC&sideLabels=E4E7EC&dates=8B93A3" />
 
 </div>
 
@@ -66,7 +66,7 @@ Currently, I'm focusing on building machine learning models and diving deeper in
 
 | Project | Description | Stack |
 |---|---|---|
-| [**OpenFM-Agent**](https://github.com/jkalpha/cp-proj4-OpenFM-agent) | Music recommendation system applying agentic loops ft. RAG, fine-tuning and guardrails | `Python` `Streamlit` `FastAPI` |
+| [**OpenFM-Agent**](https://github.com/josweon/cp-proj4-OpenFM-agent) | Music recommendation system applying agentic loops ft. RAG, fine-tuning and guardrails | `Python` `Streamlit` `FastAPI` |
 
 #### and many more to come...
 ---
