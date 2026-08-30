@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Josiah!
+# Hi, I'm Josiah!
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=3000&pause=1000&color=D9A441&center=true&vCenter=true&width=520&lines=CS+Student+%C2%B7+ML+%26+Backend+Engineer;Java+%7C+Python+%7C+Spring+Boot+%7C+PyTorch;Open+to+internships+%26+new+grad+roles" alt="Typing SVG" />
 
@@ -20,9 +20,9 @@ Currently, I'm focusing on building machine learning models and diving deeper in
 
 <!-- Currently Building section -->
 
-- 🎓 B.S. Computer Science
-- 🌱 Learning: distributed systems & MLOps
-- 📫 Reach me at **josiahdeleon.x@outlook.com**
+- B.S. Computer Science
+- Learning: distributed systems & operating systems
+- Reach me at **josiahdeleon.x@outlook.com**
 
 ---
 
