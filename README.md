@@ -2,7 +2,7 @@
 
 # Hi, I'm Josiah!
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=3000&pause=1000&color=D9A441&center=true&vCenter=true&width=520&lines=CS+Student+%C2%B7+ML+%26+Backend+Engineer;Java+%7C+Python+%7C+Spring+Boot+%7C+PyTorch;Open+to+internships+%26+new+grad+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=3000&pause=1000&color=0368B4&center=true&vCenter=true&width=520&lines=CS+Student+%C2%B7+ML+%26+Backend+Engineer;Java+%7C+Python+%7C+Spring+Boot+%7C+PyTorch;Open+to+internships+%26+new+grad+roles" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-josiahdeleon.x%40outlook.com-D9A441?style=flat-square&logo=gmail&logoColor=white)](mailto:josiahdeleon.x@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiah-de-leon-00x/) 
