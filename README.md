@@ -67,6 +67,7 @@ Currently, I'm focusing on building machine learning models and diving deeper in
 | Project | Description | Stack |
 |---|---|---|
 | [**OpenFM-Agent**](https://github.com/josweon/cp-proj4-OpenFM-agent) | Music recommendation system applying agentic loops ft. RAG, fine-tuning and guardrails | `Python` `Streamlit` `FastAPI` |
+| [**JDL Accounting Services**](https://github.com/josweon/capstone-1) | Java CLI / CRUD application for managing transactions | `Java` `Maven` `IntelliJ IDEA` |
 
 #### and many more to come...
 ---
